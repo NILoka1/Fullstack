@@ -1,0 +1,182 @@
+* {
+    font-family: "Golos Text";
+    font-size: 20px;
+}
+
+body {
+    background-color: #252a34;
+}
+
+.MainText {
+    font-size: 40px;
+    width: 100%;
+    text-align: center;
+    color: white;
+}
+
+.Description {
+    padding: 0 3%;
+    color: white;
+    margin-top: 30px;
+}
+
+.two {
+    text-align: center;
+}
+
+.three {
+    text-align: right;
+}
+
+.ButtonReg {
+    margin-top: 30px;
+}
+
+.mantine-Modal-header {
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+.Auto {
+    background-color: white;
+}
+
+.RegBut {
+    color: black;
+    font-size: 12px;
+}
+
+.RegAndAutoButtons {
+    margin-top: 20px;
+}
+
+.mantine-Grid-inner {
+    flex-direction: column;
+    align-items: center;
+}
+
+.RegAndAutoButton {
+    font-size: 15px;
+}
+
+.ProfileHead {
+    display: flex;
+    flex-direction: row;
+    height: 30px;
+    justify-content: space-between;
+    color: white;
+    background-color: #171c25;
+}
+
+.ButtonExit {
+    height: 30px;
+}
+
+hr {
+    margin: 0 0 10px 0px;
+}
+
+.IndividualTask {
+    height: 600px;
+    width: 400px;
+    border: 2px solid white;
+    border-radius: 20px;
+    background-color: #171c25;
+    color: white;
+    padding: 5px 10px
+}
+
+.Task {
+    display: flex;
+    flex-direction: row;
+    width: 287px;
+}
+
+.progress {
+    margin-bottom: 10px;
+}
+
+.CheckBox {
+    margin-right: 5px;
+    margin-top: 16px;
+}
+
+.AccPanel {
+    color: #ffffff;
+}
+
+.AccItem {
+    display: flex;
+    flex-direction: row;
+}
+
+.mantine-Accordion-control:hover {
+    background-color: #242c3a;
+}
+
+.mantine-Text-root {
+    color: white;
+}
+
+.ProfileBody {
+    display: flex;
+    justify-content: space-between;
+}
+
+.IndividualTask {
+    height: 600px;
+    width: 400px;
+    border: 2px solid white;
+    border-radius: 20px;
+    background-color: #171c25;
+    color: white;
+    padding: 10px;
+    display: flex;
+    flex-direction: column;
+}
+
+.task-container {
+    flex: 1;
+    overflow-y: auto;
+    overflow-x: hidden;
+    margin-bottom: 10px;
+}
+
+.addTaskButton {
+    margin-top: auto;
+}
+
+.progress {
+    margin-bottom: 10px;
+}
+
+.CheckBox {
+    margin-right: 5px;
+    margin-top: 16px;
+}
+
+.AccPanel {
+    color: #ffffff;
+}
+
+.AccItem {
+    display: flex;
+    flex-direction: row;
+}
+
+.mantine-Accordion-control:hover {
+    background-color: #242c3a;
+}
+
+.mantine-Text-root {
+    color: white;
+}
+
+.ProfileBody {
+    display: flex;
+    justify-content: space-between;
+}
+
+.black-text {
+    color: black;
+}
